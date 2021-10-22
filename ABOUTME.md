@@ -3,7 +3,7 @@
 - I'm a studying software engineer in the penultimate year of my degree.
 
 // ABOUT ME //
-- I dabble a little in a lot, and I'm trying to fix that. 
+- I dabble a little in a lot. 
 - I love game programming and just programming in general - its just a good, fun way to spend my time. 
 - Web development and website work is never dull to me, contrary to popular opinion.
 - I follow a lot of fandoms from Anime/K-pop/K-dramas.
